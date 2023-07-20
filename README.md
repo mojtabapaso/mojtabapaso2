@@ -1,4 +1,5 @@
-### Hi there 👋
+# About Me:
+### Hello, welcome to my profile! I'm a Python developer, specifically interested in programming with Django frameworks and FastAPI.
 
 <!--
 **mojtabapaso/mojtabapaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
